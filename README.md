@@ -1,2 +1,2 @@
 # python
-Let's learn python efficiently
+Let's learn python
